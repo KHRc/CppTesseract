@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="chart_2.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="chart_3.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="01 函数模板语法.cpp">
+    <ClCompile Include="STL\01 vector .cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

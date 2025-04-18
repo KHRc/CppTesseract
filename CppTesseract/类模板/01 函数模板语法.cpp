@@ -32,7 +32,7 @@ void test1()
 
 void test2()
 {
-	char arr[] = "fedcba";
+	char arr[] = "fedcba  ";
 	//int arr[] = { 3, 2, 1, 5, 4 };
 	mySort(arr);
 	for (int i = 0; i < sizeof(arr) / sizeof(arr[0]); i++)
